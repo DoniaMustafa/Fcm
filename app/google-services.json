@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "774957719170",
+    "project_id": "msgtest-f468c",
+    "storage_bucket": "msgtest-f468c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774957719170:android:c820184c1abb08d1281e9b",
+        "android_client_info": {
+          "package_name": "com.msg.test.msg_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774957719170-fm67n6s75totdbdh6071p1cv179bqtsm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.msg.test.msg_test",
+            "certificate_hash": "436506ed8bed6acc86ecbb024e2ab29d26dcc05a"
+          }
+        },
+        {
+          "client_id": "774957719170-gmrm1rvs32o9772jobvibljkr3m521da.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.msg.test.msg_test",
+            "certificate_hash": "b5dbdf97a769514ad1682b98dd770fa130db312f"
+          }
+        },
+        {
+          "client_id": "774957719170-vijmrq97q59sq1tuiqjpvb1lg5nh7v8f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.msg.test.msg_test",
+            "certificate_hash": "fe1bf05f9fdd672fa8f277f4275b800894830e2b"
+          }
+        },
+        {
+          "client_id": "774957719170-2a0g12en2gn059ramtec9nfdv1sn30j8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGfZQJBj0HZTJFSsLxulnawJHzTvZvBKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774957719170-2a0g12en2gn059ramtec9nfdv1sn30j8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "774957719170-7d4ab0cma8hs22kc19te4veuk83erngm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "y"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
